@@ -1,0 +1,4 @@
+name = "LinearPixelsToTorques"
+uuid = "b1eb4deb-5759-4338-a874-ab3c316b5415"
+authors = ["JJ Lee <jeonghun.jj.lee@gmail.com>"]
+version = "0.1.0"
