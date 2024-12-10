@@ -2,6 +2,9 @@
 
 This Julia package contains the algorithm implementation and studies for the WAFR 2024 paper, "From Pixels to Torques with Linear Feedback."
 
+## Data
+All data files for the project can be found here: https://drive.google.com/drive/folders/13I-ZCaKQ0d5QbgXJr6Tvcb3gps_EY0CX?usp=sharing
+
 ## Citing
 
 If you use LinearPixelsToTorques.jl and the Luenberger-Observer Learning (LOL) algorithm as part of your research, teaching, or other activities, we would be grateful if you could cite our work:
