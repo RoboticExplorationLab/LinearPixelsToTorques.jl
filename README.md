@@ -1,6 +1,6 @@
 # LinearPixelsToTorques.jl
 
-This Julia package contains the algorithm implementation and studies for "From Pixels to Torques with Linear Feedback."
+This Julia package contains the algorithm implementation and studies for the WAFR 2024 paper, "From Pixels to Torques with Linear Feedback."
 
 ## Citing
 
