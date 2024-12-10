@@ -4,7 +4,7 @@ This Julia package contains the algorithm implementation and studies for "From P
 
 ## Citing
 
-If you use LinearPixelsToTorques.jl and the Luenberger-Observer Learning algorithm as part of your research, teaching, or other activities, we would be grateful if you could cite our work:
+If you use LinearPixelsToTorques.jl and the Luenberger-Observer Learning (LOL) algorithm as part of your research, teaching, or other activities, we would be grateful if you could cite our work:
 
 [1] J. H. Lee, S. Schoedel, A. Bhardwaj, and Z. Manchester, “From Pixels to Torques with Linear Feedback.” 2024. [Online]. Available: https://arxiv.org/abs/2406.18699
 ```
